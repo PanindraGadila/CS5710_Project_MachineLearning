@@ -1,9 +1,9 @@
 # CS5710_Project_MachineLearning
 
-Name : Panindra Kumar Gadila
-Student ID : 700742480
-Dept.: Computer Science (University of Central Missouri), Fall -2022
-Email Id: pxg24800@ucmo.edu
+Name : Panindra Kumar Gadila,
+Student ID : 700742480,
+Dept: Computer Science (University of Central Missouri), Fall -2022.
+Email Id: pxg24800@ucmo.edu.
 
 Project Title : Alzheimer’s prediction using machine learning
 
